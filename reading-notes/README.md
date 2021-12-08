@@ -7,4 +7,5 @@ This is a way to document and highlight my new knowledge.
 
 ## Code 401 - Advanced Software Development ##
 
-12/4/2021
+Reading Notes 1: 
+Reading Notes 2:  [Recursion, Python Modules, Test Driven Development](./reading-notes-2.md)
