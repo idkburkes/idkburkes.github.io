@@ -11,3 +11,5 @@ Reading Notes 1: [Mindset](./reading-notes-1.md)
 Reading Notes 2:  [Recursion, Python Modules, Test Driven Development](./reading-notes-2.md)
 
 Reading Notes 3: [Python File IO, Exceptions](./reading-notes-3.md)
+
+Reading Notes 4: [Classes and Objects, Thinking Recursively, Pytest Fixtures and Coverage](./reading-notes-4.md)
