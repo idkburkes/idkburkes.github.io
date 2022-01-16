@@ -13,3 +13,5 @@ Reading Notes 2:  [Recursion, Python Modules, Test Driven Development](./reading
 Reading Notes 3: [Python File IO, Exceptions](./reading-notes-3.md)
 
 Reading Notes 4: [Classes and Objects, Thinking Recursively, Pytest Fixtures and Coverage](./reading-notes-4.md)
+
+Reading Notes 11: [Jupyter Lab, NumPy](./reading-notes-11.md)
