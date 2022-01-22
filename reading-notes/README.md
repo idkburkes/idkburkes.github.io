@@ -17,3 +17,5 @@ Reading Notes 4: [Classes and Objects, Thinking Recursively, Pytest Fixtures and
 Reading Notes 11: [Jupyter Lab, NumPy](./reading-notes-11.md)
 
 Reading Notes 12: [Pandas](./reading-notes-12.md)
+
+Reading Notes 12: [Linear Regressions](./reading-notes-13.md)
