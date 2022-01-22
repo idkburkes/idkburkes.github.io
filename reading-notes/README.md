@@ -18,4 +18,4 @@ Reading Notes 11: [Jupyter Lab, NumPy](./reading-notes-11.md)
 
 Reading Notes 12: [Pandas](./reading-notes-12.md)
 
-Reading Notes 12: [Linear Regressions](./reading-notes-13.md)
+Reading Notes 13: [Linear Regressions](./reading-notes-13.md)
